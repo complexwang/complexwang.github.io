@@ -3,39 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://complexwang.github.io/--buildDrafts/authors/admin/</loc>
+    <loc>https://complexwang.github,io/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://complexwang.github.io/--buildDrafts/</loc>
+    <loc>https://complexwang.github,io/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://complexwang.github.io/--buildDrafts/authors/</loc>
+    <loc>https://complexwang.github,io/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://complexwang.github.io/--buildDrafts/categories/</loc>
+    <loc>https://complexwang.github,io/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://complexwang.github.io/--buildDrafts/post/</loc>
+    <loc>https://complexwang.github,io/authors/</loc>
   </url>
   
   <url>
-    <loc>https://complexwang.github.io/--buildDrafts/publication_types/</loc>
+    <loc>https://complexwang.github,io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://complexwang.github.io/--buildDrafts/publication/</loc>
+    <loc>https://complexwang.github,io/post/</loc>
   </url>
   
   <url>
-    <loc>https://complexwang.github.io/--buildDrafts/talk/</loc>
+    <loc>https://complexwang.github,io/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://complexwang.github.io/--buildDrafts/tags/</loc>
+    <loc>https://complexwang.github,io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/</loc>
   </url>
   
 </urlset>
