@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lawliet&#39;s Homepage</title>
-    <link>https://complexwang.github,io/</link>
-      <atom:link href="https://complexwang.github,io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lawliet&#39;s Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <title>Nesting for 3D models | Lawliet&#39;s Homepage</title>
+    <link>https://complexwang.github,io/tags/nesting-for-3d-models/</link>
+      <atom:link href="https://complexwang.github,io/tags/nesting-for-3d-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nesting for 3D models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Lawliet&#39;s Homepage</title>
-      <link>https://complexwang.github,io/</link>
+      <title>Nesting for 3D models</title>
+      <link>https://complexwang.github,io/tags/nesting-for-3d-models/</link>
     </image>
     
     <item>
@@ -63,24 +63,6 @@ Besides these useful settings, we have some more advanced functions.&lt;/p&gt;
 &lt;img src=&#34;featured.jpg&#34; alt=&#34;without align parts&amp;rsquo; main direction to X-axis&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://complexwang.github,io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://complexwang.github,io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://complexwang.github,io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://complexwang.github,io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     

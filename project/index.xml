@@ -5,7 +5,7 @@
     <link>https://complexwang.github,io/project/</link>
       <atom:link href="https://complexwang.github,io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
@@ -13,15 +13,56 @@
     </image>
     
     <item>
-      <title>Internal Project</title>
+      <title>Intelligent 2D nesting algorithm</title>
       <link>https://complexwang.github,io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://complexwang.github,io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;p&gt;Additive manufacturing (AM) is poised to bring about a revolution in the way products are designed, manufactured, and distributed to end users. Due to the layer-based processing characteristic, significant savings in cost and time can be achieved in AM by manufacturing multiple parts in a single setup to achieve efficient machine volume utilization. Intuitively, to improve the machine utilization, more parts should be placed as compactly as possible to harness the build volume so as to reduce the total build time and cost for per machine run. However, doing the part placement manually in a graphic environment is time-consuming, and it becomes more complicated when placing a batch of parts with a large quantity and very complex geometries. Furthermore, it is very difficult or even impossible for an operator to find an optimal part placement solution manually when placing a large number of parts models. For the above-mentioned reasons，we  developed this 2D nesting function in Voxeldance software.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2dnestgui.jpg&#34; alt=&#34;2D nesting GUI&#34;&gt;&lt;/p&gt;
+&lt;p&gt;For 2D nesting, you can adjust:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Accuracy&lt;/strong&gt;: the higher the accuracy, the higher is the packing density&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Part interval&lt;/strong&gt;: minimum distance between parts&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Margin to sides&lt;/strong&gt;: distance to platform border (XY)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Distance to platform&lt;/strong&gt;: the minimum Z value of parts&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Rotation setting&lt;/strong&gt;: defines how many options you have when rotating the part along the z-axis. The more steps you have, the more options and the higher the density you will reach.
+Besides these useful settings, we have some more advanced functions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Selection&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When you want to nest all the parts, just click All parts, all parts will be automatically nested for you.&lt;/p&gt;
+&lt;p&gt;When you want to nest only selected parts, just click Selected parts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2dnestselected.jpg&#34; alt=&#34;2D nesting only selected models&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Whenever you want to place specific parts manually and let Voxeldance nest other parts around those, you can select these additional parts and click Keep unselected parts unmoved. With this option, the unselected parts won’t be moved anymore.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;2dnest-unselected-unmoved.jpg&#34; alt=&#34;2D nesting keep unselected parts unmoved&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;If you want to move unselected parts out of platform, just click Move unselected parts out of platform. All the parts unselected will be moved outside platform, only the selected be nested on the platform.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;2dnesting-unselected-out.jpg&#34; alt=&#34;2D nesting keep unselected parts out of platform&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Align parts’ main direction to X-axis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This function is only useful for dental 3D printing. By clicking Align parts’ main direction to X-axis, all the main directions of teeth models will align to X-axis.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2dnesting-align-parts.jpg&#34; alt=&#34;2D nesting align parts&amp;rsquo; main direction to X-axis&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2D nesting for round platform&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Voxeldance has a special function that is nesting parts for round platform which can been hardly seen in other 3D printing software.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2dnesting-round-alignx.png&#34; alt=&#34;with align parts&amp;rsquo; main direction to X-axis&#34;&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;without align parts&amp;rsquo; main direction to X-axis&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
