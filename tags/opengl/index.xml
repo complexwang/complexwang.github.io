@@ -14,9 +14,9 @@
     
     <item>
       <title>Visualization of the model cross-section using OpenGL</title>
-      <link>https://complexwang.github,io/project/visualization-crosssection/</link>
+      <link>https://complexwang.github,io/project/visualization/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://complexwang.github,io/project/visualization-crosssection/</guid>
+      <guid>https://complexwang.github,io/project/visualization/</guid>
       <description>&lt;p&gt;Clipping visualized 3D models with user-defined clipping planes is one of basic OpenGL features that allows the user to look inside the models.&lt;/p&gt;
 &lt;p&gt;However, in some cases it is more interesting to investigate the cross-section shape rather than the model&amp;rsquo;s internals. For this purpose, the cross-section should be visualized in shading using some distinctive visual attributes (specific color, hatching).&lt;/p&gt;
 &lt;p&gt;Solving this task geometrically might be a heavy work with large complicated CAD models. If visualization of the cross-section is the only goal, this task can be solved efficiently using OpenGL-based capping algorithm.&lt;/p&gt;

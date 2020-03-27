@@ -14,9 +14,9 @@
     
     <item>
       <title>Intelligent 2D nesting algorithm</title>
-      <link>https://complexwang.github,io/project/internal-project/</link>
+      <link>https://complexwang.github,io/project/2dnesting/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://complexwang.github,io/project/internal-project/</guid>
+      <guid>https://complexwang.github,io/project/2dnesting/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Additive manufacturing&lt;/strong&gt; (AM) is poised to bring about a revolution in the way products are designed, manufactured, and distributed to end users. Due to the layer-based processing characteristic, significant savings in cost and time can be achieved in AM by manufacturing multiple parts in a single setup to achieve efficient machine volume utilization. Intuitively, to improve the machine utilization, more parts should be placed as compactly as possible to harness the build volume so as to reduce the total build time and cost for per machine run. However, doing the part placement manually in a graphic environment is time-consuming, and it becomes more complicated when placing a batch of parts with a large quantity and very complex geometries. Furthermore, it is very difficult or even impossible for an operator to find an optimal part placement solution manually when placing a large number of parts models. For the above-mentioned reasons，we  developed this 2D nesting function in &lt;strong&gt;Voxeldance&lt;/strong&gt; software.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;2dnestgui.jpg&#34; alt=&#34;2D nesting GUI&#34;&gt;&lt;/p&gt;
 &lt;p&gt;For 2D nesting, you can adjust:&lt;/p&gt;
@@ -68,9 +68,9 @@ Besides these useful settings, we have some more advanced functions.&lt;/p&gt;
     
     <item>
       <title>Visualization of the model cross-section using OpenGL</title>
-      <link>https://complexwang.github,io/project/visualization-crosssection/</link>
+      <link>https://complexwang.github,io/project/visualization/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://complexwang.github,io/project/visualization-crosssection/</guid>
+      <guid>https://complexwang.github,io/project/visualization/</guid>
       <description>&lt;p&gt;Clipping visualized 3D models with user-defined clipping planes is one of basic OpenGL features that allows the user to look inside the models.&lt;/p&gt;
 &lt;p&gt;However, in some cases it is more interesting to investigate the cross-section shape rather than the model&amp;rsquo;s internals. For this purpose, the cross-section should be visualized in shading using some distinctive visual attributes (specific color, hatching).&lt;/p&gt;
 &lt;p&gt;Solving this task geometrically might be a heavy work with large complicated CAD models. If visualization of the cross-section is the only goal, this task can be solved efficiently using OpenGL-based capping algorithm.&lt;/p&gt;
