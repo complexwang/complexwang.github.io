@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Lawliet&#39;s Homepage</title>
-    <link>https://complexwang.github,io/project/</link>
-      <atom:link href="https://complexwang.github,io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Nesting | Lawliet&#39;s Homepage</title>
+    <link>https://complexwang.github,io/tags/nesting/</link>
+      <atom:link href="https://complexwang.github,io/tags/nesting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nesting</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Projects</title>
-      <link>https://complexwang.github,io/project/</link>
+      <title>Nesting</title>
+      <link>https://complexwang.github,io/tags/nesting/</link>
     </image>
     
     <item>
@@ -63,41 +63,6 @@ Besides these useful settings, we have some more advanced functions.&lt;/p&gt;
 &lt;img src=&#34;featured.jpg&#34; alt=&#34;without align parts&amp;rsquo; main direction to X-axis&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Visualization of the model cross-section using OpenGL</title>
-      <link>https://complexwang.github,io/project/visualization/</link>
-      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://complexwang.github,io/project/visualization/</guid>
-      <description>&lt;p&gt;Clipping visualized 3D models with user-defined clipping planes is one of basic OpenGL features that allows the user to look inside the models.&lt;/p&gt;
-&lt;p&gt;However, in some cases it is more interesting to investigate the cross-section shape rather than the model&amp;rsquo;s internals. For this purpose, the cross-section should be visualized in shading using some distinctive visual attributes (specific color, hatching).&lt;/p&gt;
-&lt;p&gt;Solving this task geometrically might be a heavy work with large complicated CAD models. If visualization of the cross-section is the only goal, this task can be solved efficiently using OpenGL-based capping algorithm.&lt;/p&gt;
-&lt;p&gt;A gif showing sample results of my capping algorithm:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;frog.gif&#34; alt=&#34;Cross Section&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fast Intersection-free 3D Model Hollowing Algorithm</title>
-      <link>https://complexwang.github,io/project/hollow/</link>
-      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://complexwang.github,io/project/hollow/</guid>
-      <description>&lt;p&gt;The pricing for most 3D printing materials is volume-based: the less material you use, the less it will cost you. For some materials, hollowing your object will also avoid deformation or discoloration.&lt;/p&gt;
-&lt;p&gt;In 3D printing, wall thickness refers to the distance between one surface of your model and its opposite sheer surface. Wall thickness is defined as the minimum thickness your model should have at any time. It’s important that every surface of your 3D model has been assigned a wall thickness.&lt;/p&gt;
-&lt;p&gt;When using your 3D modeling software it&amp;rsquo;s possible to design a surface without a wall thickness. However, 3D printers need the information about how thick you intend the wall of your object to be. Many printing problems can be traced back to wall thickness issues. The minimum printable wall thickness primarily depends on the material you choose. Other factors such as the alignment, size, and overall design of your 3D model, can also influence the recommended minimum wall thickness.&lt;/p&gt;
-&lt;p&gt;Pushing the wall thickness to the minimum might seem like a way to save money. However, making walls too thin can make a model too fragile and might cause parts of it to break off.&lt;/p&gt;
-&lt;p&gt;The image above shows sample result of my hollowing algorithm.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Isotropic 3D Model Remeshing Algorithm</title>
-      <link>https://complexwang.github,io/project/remesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://complexwang.github,io/project/remesh/</guid>
-      <description>&lt;p&gt;I Will write later&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
