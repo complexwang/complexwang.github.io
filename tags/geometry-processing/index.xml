@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geometry Processing | Lawliet&#39;s Homepage</title>
+    <link>https://complexwang.github,io/tags/geometry-processing/</link>
+      <atom:link href="https://complexwang.github,io/tags/geometry-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geometry Processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Geometry Processing</title>
+      <link>https://complexwang.github,io/tags/geometry-processing/</link>
+    </image>
+    
+    <item>
+      <title>Fast Intersection-free 3D Model Hollowing Algorithm</title>
+      <link>https://complexwang.github,io/project/hollow/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/hollow/</guid>
+      <description>&lt;p&gt;The pricing for most 3D printing materials is volume-based: the less material you use, the less it will cost you. For some materials, hollowing your object will also avoid deformation or discoloration.&lt;/p&gt;
+&lt;p&gt;In 3D printing, wall thickness refers to the distance between one surface of your model and its opposite sheer surface. Wall thickness is defined as the minimum thickness your model should have at any time. It’s important that every surface of your 3D model has been assigned a wall thickness.&lt;/p&gt;
+&lt;p&gt;When using your 3D modeling software it&amp;rsquo;s possible to design a surface without a wall thickness. However, 3D printers need the information about how thick you intend the wall of your object to be. Many printing problems can be traced back to wall thickness issues. The minimum printable wall thickness primarily depends on the material you choose. Other factors such as the alignment, size, and overall design of your 3D model, can also influence the recommended minimum wall thickness.&lt;/p&gt;
+&lt;p&gt;Pushing the wall thickness to the minimum might seem like a way to save money. However, making walls too thin can make a model too fragile and might cause parts of it to break off.&lt;/p&gt;
+&lt;p&gt;The image above shows sample result of my hollowing algorithm.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
