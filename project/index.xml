@@ -80,6 +80,15 @@ Besides these useful settings, we have some more advanced functions.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Isotropic 3D Model Remeshing Algorithm</title>
+      <link>https://complexwang.github,io/project/remesh/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/remesh/</guid>
+      <description>&lt;p&gt;I will write later&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fast Intersection-free 3D Model Hollowing Algorithm</title>
       <link>https://complexwang.github,io/project/hollow/</link>
       <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
@@ -89,15 +98,6 @@ Besides these useful settings, we have some more advanced functions.&lt;/p&gt;
 &lt;p&gt;When using your 3D modeling software it&amp;rsquo;s possible to design a surface without a wall thickness. However, 3D printers need the information about how thick you intend the wall of your object to be. Many printing problems can be traced back to wall thickness issues. The minimum printable wall thickness primarily depends on the material you choose. Other factors such as the alignment, size, and overall design of your 3D model, can also influence the recommended minimum wall thickness.&lt;/p&gt;
 &lt;p&gt;Pushing the wall thickness to the minimum might seem like a way to save money. However, making walls too thin can make a model too fragile and might cause parts of it to break off.&lt;/p&gt;
 &lt;p&gt;The image above shows sample result of my hollowing algorithm.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Isotropic 3D Model Remeshing Algorithm</title>
-      <link>https://complexwang.github,io/project/remesh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://complexwang.github,io/project/remesh/</guid>
-      <description>&lt;p&gt;I Will write later&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
