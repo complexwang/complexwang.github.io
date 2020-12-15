@@ -5,12 +5,21 @@
     <link>https://complexwang.github,io/project/</link>
       <atom:link href="https://complexwang.github,io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
       <link>https://complexwang.github,io/project/</link>
     </image>
+    
+    <item>
+      <title>My favourite links</title>
+      <link>https://complexwang.github,io/project/favouritelinks/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/favouritelinks/</guid>
+      <description>&lt;p&gt;I will collect some websites about computer graphics here in the near furture.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Swiss Army Knife of 3D Nesting</title>
