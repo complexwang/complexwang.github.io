@@ -5,12 +5,28 @@
     <link>https://complexwang.github,io/tags/geometry-processing/</link>
       <atom:link href="https://complexwang.github,io/tags/geometry-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Geometry Processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Geometry Processing</title>
       <link>https://complexwang.github,io/tags/geometry-processing/</link>
     </image>
+    
+    <item>
+      <title>Fast and High-accuracy Triangle Mesh Simplification Algorithm</title>
+      <link>https://complexwang.github,io/project/simplification/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/simplification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient 3D Surface Thickening Algorithm</title>
+      <link>https://complexwang.github,io/project/thicken/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/thicken/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An In-Depth Look at Model Repairing</title>
