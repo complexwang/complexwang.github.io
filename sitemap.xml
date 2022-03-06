@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://complexwang.github,io/project/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/project/thoughts/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/thoughts/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://complexwang.github,io/talk/</loc>
     <lastmod>2021-09-03T20:00:00+00:00</lastmod>
   </url>
@@ -29,16 +49,6 @@
   
   <url>
     <loc>https://complexwang.github,io/tags/geometry-processing/</loc>
-    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://complexwang.github,io/project/</loc>
-    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://complexwang.github,io/tags/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
   </url>
   
