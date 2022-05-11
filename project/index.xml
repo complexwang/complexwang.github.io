@@ -55,20 +55,13 @@
 &lt;a href=&#34;http://csrankings.org/#/index?graph&amp;amp;world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=purple&gt;&lt;em&gt;CSRankings: Computer Science Rankings&lt;/em&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
 
 &lt;a href=&#34;http://www.dgp.toronto.edu/~rms/links.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=purple&gt;&lt;em&gt;Computer Graphics Research Software&lt;/em&gt;&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Algorithm librarys&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/rohan-sawhney/fcpw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=purple&gt;&lt;em&gt;FCPW: Fastest Closest Points in the West&lt;/em&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;https://github.com/Philip-Trettner/probabilistic-quadrics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=purple&gt;&lt;em&gt;Probabilistic Quadrics&lt;/em&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;https://github.com/gcherchi/FastAndRobustMeshArrangements/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=purple&gt;&lt;em&gt;Fast and Robust Mesh Arrangements&lt;/em&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;https://github.com/libigl/libigl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=purple&gt;&lt;em&gt;Fast Winding Numbers for Soups&lt;/em&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;https://github.com/qnzhou/ImatiSTL/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=purple&gt;&lt;em&gt;ImatiSTL&lt;/em&gt;&lt;/font&gt;&lt;/a&gt;   
-&lt;a href=&#34;https://github.com/MarcoAttene/MeshFix-V2.1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=purple&gt;&lt;em&gt;Meshfix&lt;/em&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
-
-&lt;a href=&#34;https://github.com/MarcoAttene/Indirect_Predicates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=purple&gt;&lt;em&gt;Indirect Predicates for Geometric Constructions&lt;/em&gt;&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- **Algorithm librarys** --&gt;
+&lt;!-- [&lt;font color=purple&gt;*FCPW: Fastest Closest Points in the West*&lt;/font&gt;](https://github.com/rohan-sawhney/fcpw/) --&gt;
+&lt;!-- [&lt;font color=purple&gt;*Probabilistic Quadrics*&lt;/font&gt;](https://github.com/Philip-Trettner/probabilistic-quadrics/) --&gt;
+&lt;!-- [&lt;font color=purple&gt;*Fast and Robust Mesh Arrangements*&lt;/font&gt;](https://github.com/gcherchi/FastAndRobustMeshArrangements/) --&gt;
+&lt;!-- [&lt;font color=purple&gt;*Fast Winding Numbers for Soups*&lt;/font&gt;](https://github.com/libigl/libigl/)  --&gt;
+&lt;!-- [&lt;font color=purple&gt;*ImatiSTL*&lt;/font&gt;](https://github.com/qnzhou/ImatiSTL/)   [&lt;font color=purple&gt;*Meshfix*&lt;/font&gt;](https://github.com/MarcoAttene/MeshFix-V2.1/) --&gt;
+&lt;!-- [&lt;font color=purple&gt;*Indirect Predicates for Geometric Constructions*&lt;/font&gt;](https://github.com/MarcoAttene/Indirect_Predicates/)--&gt;
 &lt;p&gt;&lt;strong&gt;Courses&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=purple&gt;&lt;em&gt;Essence of Linear Algebra&lt;/em&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;
