@@ -83,13 +83,48 @@
   </url>
   
   <url>
+    <loc>https://complexwang.github,io/project/sinterbox/</loc>
+    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/modeling/</loc>
+    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/mesh-processing/</loc>
+    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/project/zcomp/</loc>
+    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://complexwang.github,io/talk/cadcg-into-company/</loc>
     <lastmod>2021-05-11T13:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://complexwang.github,io/project/polygoncut/</loc>
+    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/project/sectioncut/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://complexwang.github,io/talk/cadcg/</loc>
     <lastmod>2021-03-15T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/project/boolean/</loc>
+    <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -115,6 +150,11 @@
   <url>
     <loc>https://complexwang.github,io/project/3dnesting/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/project/volumesupport/</loc>
+    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -150,6 +190,16 @@
   <url>
     <loc>https://complexwang.github,io/project/hole-filling/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/orientation-optimization/</loc>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/project/orientationteeth/</loc>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>

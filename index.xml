@@ -84,6 +84,22 @@
     </item>
     
     <item>
+      <title>Create a rectangle Sinterbox</title>
+      <link>https://complexwang.github,io/project/sinterbox/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/sinterbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Z-compensation algorithm</title>
+      <link>https://complexwang.github,io/project/zcomp/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/zcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CCF CAD&amp;CG into the Enterprise</title>
       <link>https://complexwang.github,io/talk/cadcg-into-company/</link>
       <pubDate>Tue, 11 May 2021 13:00:00 +0000</pubDate>
@@ -92,10 +108,34 @@
     </item>
     
     <item>
+      <title>Fast robust polygon cut algorithm</title>
+      <link>https://complexwang.github,io/project/polygoncut/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/polygoncut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast robust section cut algorithm</title>
+      <link>https://complexwang.github,io/project/sectioncut/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/sectioncut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What can computer graphics do？</title>
       <link>https://complexwang.github,io/talk/cadcg/</link>
       <pubDate>Mon, 15 Mar 2021 19:00:00 +0000</pubDate>
       <guid>https://complexwang.github,io/talk/cadcg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast robust memory efficient triangle mesh boolean algorithm</title>
+      <link>https://complexwang.github,io/project/boolean/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/boolean/</guid>
       <description></description>
     </item>
     
@@ -179,6 +219,16 @@ final product surface quality. For example, rounded parts are frequently placed 
 &lt;p&gt;&lt;img src=&#34;front1200.png&#34; alt=&#34;front1200.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;iso1200.png&#34; alt=&#34;iso1200.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;top1200.png&#34; alt=&#34;top1200.png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Volume Support Thickening Algorithm</title>
+      <link>https://complexwang.github,io/project/volumesupport/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/volumesupport/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;bothside.png&#34; alt=&#34;Surface to solid to both side&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The two images above,one is surface to solid to one side,the other is to both side.&lt;/p&gt;
 </description>
     </item>
     
@@ -317,6 +367,14 @@ Besides these useful settings, we have some more advanced functions.&lt;/p&gt;
       <link>https://complexwang.github,io/project/hole-filling/</link>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://complexwang.github,io/project/hole-filling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powerful orientation for teeth tools.</title>
+      <link>https://complexwang.github,io/project/orientationteeth/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/orientationteeth/</guid>
       <description></description>
     </item>
     

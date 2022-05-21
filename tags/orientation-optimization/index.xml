@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orientation Optimization | Lawliet&#39;s Homepage</title>
+    <link>https://complexwang.github,io/tags/orientation-optimization/</link>
+      <atom:link href="https://complexwang.github,io/tags/orientation-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Orientation Optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Orientation Optimization</title>
+      <link>https://complexwang.github,io/tags/orientation-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Powerful orientation for teeth tools.</title>
+      <link>https://complexwang.github,io/project/orientationteeth/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/orientationteeth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

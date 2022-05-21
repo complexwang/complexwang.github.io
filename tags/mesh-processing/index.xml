@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mesh Processing | Lawliet&#39;s Homepage</title>
+    <link>https://complexwang.github,io/tags/mesh-processing/</link>
+      <atom:link href="https://complexwang.github,io/tags/mesh-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mesh Processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mesh Processing</title>
+      <link>https://complexwang.github,io/tags/mesh-processing/</link>
+    </image>
+    
+    <item>
+      <title>Reliable Z-compensation algorithm</title>
+      <link>https://complexwang.github,io/project/zcomp/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/zcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast robust polygon cut algorithm</title>
+      <link>https://complexwang.github,io/project/polygoncut/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/polygoncut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast robust section cut algorithm</title>
+      <link>https://complexwang.github,io/project/sectioncut/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/sectioncut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast robust memory efficient triangle mesh boolean algorithm</title>
+      <link>https://complexwang.github,io/project/boolean/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/boolean/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

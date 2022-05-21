@@ -31,6 +31,16 @@
     </item>
     
     <item>
+      <title>Volume Support Thickening Algorithm</title>
+      <link>https://complexwang.github,io/project/volumesupport/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/volumesupport/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;bothside.png&#34; alt=&#34;Surface to solid to both side&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The two images above,one is surface to solid to one side,the other is to both side.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fast and Memory Efficient Shell Generation Algorithm</title>
       <link>https://complexwang.github,io/project/shell/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>

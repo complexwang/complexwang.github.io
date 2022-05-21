@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modeling | Lawliet&#39;s Homepage</title>
+    <link>https://complexwang.github,io/tags/modeling/</link>
+      <atom:link href="https://complexwang.github,io/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Modeling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Modeling</title>
+      <link>https://complexwang.github,io/tags/modeling/</link>
+    </image>
+    
+    <item>
+      <title>Create a rectangle Sinterbox</title>
+      <link>https://complexwang.github,io/project/sinterbox/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/sinterbox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
