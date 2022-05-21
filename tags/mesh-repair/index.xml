@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Fast and Robust ShrinkWrap Algorithm</title>
+      <link>https://complexwang.github,io/project/shrinkwrap/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/shrinkwrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Robust Unify Algorithm</title>
+      <link>https://complexwang.github,io/project/unify/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/unify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An In-Depth Look at Model Repairing</title>
       <link>https://complexwang.github,io/project/autorepair/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
@@ -56,6 +72,14 @@ We welcome you to apply to try our software through our website. If you find som
 &lt;p&gt;[2] Qingnan Zhou and Alec Jacobson. 2016. Thingi10K: A Dataset of 10,000 3D-Printing
 Models, &lt;a href=&#34;https://ten-thousand-models.appspot.com&#34;&gt;https://ten-thousand-models.appspot.com&lt;/a&gt;. Technical Report. New York University.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Fast and Robust Triangle Mesh Hole Filling Algorithm</title>
+      <link>https://complexwang.github,io/project/hole-filling/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/hole-filling/</guid>
+      <description></description>
     </item>
     
   </channel>

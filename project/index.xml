@@ -109,6 +109,22 @@ final product surface quality. For example, rounded parts are frequently placed 
     </item>
     
     <item>
+      <title>Fast and Robust ShrinkWrap Algorithm</title>
+      <link>https://complexwang.github,io/project/shrinkwrap/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/shrinkwrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Robust Unify Algorithm</title>
+      <link>https://complexwang.github,io/project/unify/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/unify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An In-Depth Look at Model Repairing</title>
       <link>https://complexwang.github,io/project/autorepair/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
@@ -197,9 +213,21 @@ Besides these useful settings, we have some more advanced functions.&lt;/p&gt;
 &lt;p&gt;VD has a special function that is nesting parts for round platform which can been hardly seen in other 3D printing software.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;2dnesting-round-alignx.png&#34; alt=&#34;with align parts&amp;rsquo; main direction to X-axis&#34;&gt;
 &lt;img src=&#34;featured.jpg&#34; alt=&#34;without align parts&amp;rsquo; main direction to X-axis&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Under this are more result images by my 2D nesting algorithm.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;multiscan1.jpg&#34; alt=&#34;multi-scan 1&#34;&gt;
+&lt;img src=&#34;multiscan2.jpg&#34; alt=&#34;multi-scan 2&#34;&gt;
+&lt;img src=&#34;innercontour.jpg&#34; alt=&#34;inner contour&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Fast and Robust Triangle Mesh Hole Filling Algorithm</title>
+      <link>https://complexwang.github,io/project/hole-filling/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/hole-filling/</guid>
+      <description></description>
     </item>
     
     <item>
