@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://complexwang.github,io/tags/others/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://complexwang.github,io/project/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +19,6 @@
   
   <url>
     <loc>https://complexwang.github,io/tags/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://complexwang.github,io/tags/thoughts/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://complexwang.github,io/tags/geometry-processing/</loc>
+    <loc>https://complexwang.github,io/tags/mesh-repair/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,8 +58,8 @@
   </url>
   
   <url>
-    <loc>https://complexwang.github,io/tags/links/</loc>
-    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+    <loc>https://complexwang.github,io/tags/mesh-optimization/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -69,6 +69,11 @@
   
   <url>
     <loc>https://complexwang.github,io/project/thicken/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/mesh-offset/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url>
   

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mesh Optimization | Lawliet&#39;s Homepage</title>
+    <link>https://complexwang.github,io/tags/mesh-optimization/</link>
+      <atom:link href="https://complexwang.github,io/tags/mesh-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mesh Optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mesh Optimization</title>
+      <link>https://complexwang.github,io/tags/mesh-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Fast and High-accuracy Triangle Mesh Simplification Algorithm</title>
+      <link>https://complexwang.github,io/project/simplification/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/simplification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isotropic 3D Model Remeshing Algorithm</title>
+      <link>https://complexwang.github,io/project/remesh/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/remesh/</guid>
+      <description>&lt;p&gt;I will write later&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
