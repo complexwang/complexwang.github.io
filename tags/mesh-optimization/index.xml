@@ -5,12 +5,20 @@
     <link>https://complexwang.github,io/tags/mesh-optimization/</link>
       <atom:link href="https://complexwang.github,io/tags/mesh-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Mesh Optimization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Mesh Optimization</title>
       <link>https://complexwang.github,io/tags/mesh-optimization/</link>
     </image>
+    
+    <item>
+      <title>Remove sharp triangles of triangle mesh</title>
+      <link>https://complexwang.github,io/project/removesharp/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/removesharp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fast and High-accuracy Triangle Mesh Simplification Algorithm</title>

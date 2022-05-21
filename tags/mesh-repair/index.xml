@@ -5,7 +5,7 @@
     <link>https://complexwang.github,io/tags/mesh-repair/</link>
       <atom:link href="https://complexwang.github,io/tags/mesh-repair/index.xml" rel="self" type="application/rss+xml" />
     <description>Mesh Repair</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Mesh Repair</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Fast Triangle Mesh Normal Fix Algorithm</title>
-      <link>https://complexwang.github,io/project/orientationfix/</link>
-      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://complexwang.github,io/project/orientationfix/</guid>
+      <title>Fast and Robust ShrinkWrap Algorithm</title>
+      <link>https://complexwang.github,io/project/shrinkwrap/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/shrinkwrap/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fast and Robust ShrinkWrap Algorithm</title>
-      <link>https://complexwang.github,io/project/shrinkwrap/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://complexwang.github,io/project/shrinkwrap/</guid>
+      <title>Fast Triangle Mesh Normal Fix Algorithm</title>
+      <link>https://complexwang.github,io/project/orientationfix/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/orientationfix/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://complexwang.github,io/tags/mesh-offset/</link>
       <atom:link href="https://complexwang.github,io/tags/mesh-offset/index.xml" rel="self" type="application/rss+xml" />
     <description>Mesh Offset</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Mesh Offset</title>
@@ -13,10 +13,28 @@
     </image>
     
     <item>
+      <title>Support-Free Hollowing</title>
+      <link>https://complexwang.github,io/project/selfsupport/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/selfsupport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient 3D Surface Thickening Algorithm</title>
       <link>https://complexwang.github,io/project/thicken/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://complexwang.github,io/project/thicken/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;bothside.png&#34; alt=&#34;Surface to solid to both side&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The two images above,one is surface to solid to one side,the other is to both side.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast and Memory Efficient Shell Generation Algorithm</title>
+      <link>https://complexwang.github,io/project/shell/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://complexwang.github,io/project/shell/</guid>
       <description></description>
     </item>
     

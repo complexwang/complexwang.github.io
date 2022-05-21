@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://complexwang.github,io/tags/others/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>https://complexwang.github,io/project/shrinkwrap/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/mesh-repair/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://complexwang.github,io/project/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/mesh-optimization/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/project/removesharp/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/others/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,8 +43,23 @@
   </url>
   
   <url>
-    <loc>https://complexwang.github,io/tags/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>https://complexwang.github,io/project/25nesting/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/nesting/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/tags/mesh-offset/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexwang.github,io/project/selfsupport/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -48,17 +88,7 @@
   </url>
   
   <url>
-    <loc>https://complexwang.github,io/tags/mesh-repair/</loc>
-    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://complexwang.github,io/project/simplification/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://complexwang.github,io/tags/mesh-optimization/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,16 +103,6 @@
   </url>
   
   <url>
-    <loc>https://complexwang.github,io/tags/mesh-offset/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://complexwang.github,io/tags/nesting/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://complexwang.github,io/project/3dnesting/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
@@ -93,13 +113,13 @@
   </url>
   
   <url>
-    <loc>https://complexwang.github,io/talk/sls/</loc>
-    <lastmod>2020-05-11T14:00:00+00:00</lastmod>
+    <loc>https://complexwang.github,io/project/shell/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://complexwang.github,io/project/shrinkwrap/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <loc>https://complexwang.github,io/talk/sls/</loc>
+    <lastmod>2020-05-11T14:00:00+00:00</lastmod>
   </url>
   
   <url>
