@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Reliable Z-compensation algorithm</title>
+      <title>Reliable Z-Compensation Algorithm</title>
       <link>https://complexwang.github,io/project/zcomp/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://complexwang.github,io/project/zcomp/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Fast robust polygon cut algorithm</title>
+      <title>Fast Robust Polygon Cut Algorithm</title>
       <link>https://complexwang.github,io/project/polygoncut/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://complexwang.github,io/project/polygoncut/</guid>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Fast robust section cut algorithm</title>
+      <title>Fast Robust Section Cut Algorithm</title>
       <link>https://complexwang.github,io/project/sectioncut/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://complexwang.github,io/project/sectioncut/</guid>
@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>Fast robust memory efficient triangle mesh boolean algorithm</title>
+      <title>Fast Robust Memory Efficient Triangle Mesh Boolean Algorithm</title>
       <link>https://complexwang.github,io/project/boolean/</link>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://complexwang.github,io/project/boolean/</guid>
