@@ -33,7 +33,9 @@
       <link>https://complexwang.github,io/project/3dnesting/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://complexwang.github,io/project/3dnesting/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Why 3D Nesting Matters&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.bilibili.com/video/BV1SQ4y1D7Wv?spm_id_from=333.999.0.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;font color=blue&gt;This is a video I recorded of my 3D nesting algorithm.&lt;/font&gt;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why 3D Nesting Matters&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Additive manufacturing (AM), also known as 3D printing, refers to a set of technologies that allow the production of highly complex parts in an incremental layer-by-layer material deposition process. Powder-based Additive manufacturing (AM) machines, Selective Laser Sintering (SLS), and Multi Jet Fusion are able to print multiple parts in a build volume at the same time.&lt;/p&gt;
 &lt;p&gt;3D Nesting (a.k.a “Packing”) is the process by which a collection of 3D files are sorted, oriented and arranged in 3D space to minimize their combined bounding box volume. Efficient nesting of multiple parts can significantly reduce unit cost and cycle time in additive manufacturing (AM).&lt;/p&gt;
 &lt;p&gt;For the above reason, we developed an advanced 3D nesting (3D packing) function in our software. Moreover, in the past two months, we have optimized this algorithm, which has greatly improved the nesting speed and density.&lt;/p&gt;
